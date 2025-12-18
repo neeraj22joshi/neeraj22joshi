@@ -1,15 +1,49 @@
-<h1 align="center">Hi 👋, I'm Neeraj Joshi</h1>
-<h3 align="center">Automating workflows, scaling systems, and bridging Dev & Ops</h3>
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=220&section=header&text=Neeraj%20Joshi&desc=DevOps%20and%20MLOps%20Aspirant&fontSize=70&descSize=28&descAlignY=85&fontColor=FFFFFF" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+DevOps+MLOps+Projects" alt="Line1" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+Cloud+Automation" alt="Line2" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/neeraj22joshi/two-tier-flask-app.git](https://github.com/neeraj22joshi/two-tier-flask-app.git)
 
-- 📫 How to reach me **neeraj22joshi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neeraj joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj joshi" height="30" width="40" /></a>
-<a href="https://fb.com/neeraj joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj joshi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+
+```yaml
+name: Neeraj Joshi
+located_in: Meerut, UP, India
+current_role: DevOps & MLOps Aspirant
+education: B.Tech
+interests: ["Cloud Computing", "Machine Learning", "Automation", "Containers", "CI/CD"]
+currently_learning: ["ML Tools", "Terraform"]
+fun_fact: "I love experimenting with new cloud and ML technologies!"
+daily_routine: ["☕ Coffee & Planning", "☁️ Learning DevOps Tools", "🤖 Exploring ML", "🏃 Exercise", "🔁 Repeat"]
+```
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+#### 🐍 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🐳 DevOps / Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-0078D7?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EC5A3B?style=for-the-badge&logo=argoproj&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafo=kubernetes&logoColor=white)
+
+</div>
